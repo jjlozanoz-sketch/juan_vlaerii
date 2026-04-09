@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error en tibble(datos = datos$Tecnologia) %>% group_by(datos) %>% summarise(fi = n()) %>% : \n  no se pudo encontrar la función \"%>%\"\n"}
